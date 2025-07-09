@@ -1,6 +1,0 @@
-package ServicesImpl;
-
-public class orderServiceImpl 
-{
-
-}
