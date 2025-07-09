@@ -6,7 +6,7 @@
 .register-photo .image-holder {
   display: table-cell;
   width: auto;
-  background: url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-13.png");
+  /* background: url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-13.png"); */
   background-size: cover;
   background-position: center;
   height: 100%;
