@@ -2,13 +2,13 @@ package Entities;
 
 public class Cart 
 {
-	int cart_Id;// primary key
+	private long cartId;// primary key
 	
-	int user_Id;//foreign key
+	private long userId;//foreign key
 	
-	int product_Id;// foreign key
+	private long productId;// foreign key
 	
-	int quantity;
+	private int quantity;
 	
 	
 }

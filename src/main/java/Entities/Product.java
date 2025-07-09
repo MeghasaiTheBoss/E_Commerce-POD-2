@@ -7,17 +7,17 @@ public class Product
 {
 	
 	
-	int product_Id; //primary key
+	private long productId; //primary key
 	
-	String name;
+	private String name;
 	
-	String description;
+	private String description;
 	
-	double price;
+	private double price;
 	
-	int category_Id; //foreign key
+	private long categoryId; //foreign key
 	
-	int stock_Quantity;
+	private int stockQuantity;
 	
 	
 }

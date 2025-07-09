@@ -6,5 +6,5 @@ import Entities.Cart;
 
 public interface cartRepository extends JpaRepository<Cart, Integer> 
 {
-
+	public Cart findByUserIdAndProductId(long userId,long productId);
 }
