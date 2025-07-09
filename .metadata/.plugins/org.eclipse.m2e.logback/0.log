@@ -1383,3 +1383,14 @@
 2025-07-08 14:17:15,581 [Worker-67: https://mirror.kakao.com/eclipse/releases/2025-06/202506111000/plugins/junit-jupiter-params_5.12.2.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->[https://mirror.kakao.com:443]
 2025-07-08 14:17:48,206 [Worker-56: https://mirror.kakao.com/eclipse/releases/2025-06/202506111000/plugins/org.eclipse.e4.core.di_1.9.600.v20250501-1140.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->[https://mirror.kakao.com:443]
 2025-07-08 14:17:49,046 [Worker-35: https://mirror.kakao.com/eclipse/releases/2025-06/202506111000/plugins/org.eclipse.e4.core.di_1.9.600.v20250501-1140.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->[https://mirror.kakao.com:443]
+2025-07-08 17:02:36,879 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-08 17:11:43,687 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-08 17:11:50,166 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 17:11:50,197 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 17:11:50,205 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\2426387\POD2_PROJECT\Ecommerce\src\test\resources
+2025-07-08 17:11:54,084 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 17:11:54,086 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 17:11:54,090 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\2426387\POD2_PROJECT\Ecommerce\src\test\resources
+2025-07-09 14:19:39,957 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-09 14:19:39,999 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-09 14:19:40,016 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\2426387\POD2_PROJECT\Ecommerce\src\test\resources

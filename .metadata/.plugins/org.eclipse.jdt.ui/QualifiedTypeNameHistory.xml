@@ -5,4 +5,9 @@
     <fullyQualifiedTypeName name="java.awt.List"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="Entities.User"/>
+    <fullyQualifiedTypeName name="Entities.Cart"/>
+    <fullyQualifiedTypeName name="Entities.Order"/>
+    <fullyQualifiedTypeName name="Entities.Product"/>
+    <fullyQualifiedTypeName name="Entities.Payment"/>
 </qualifiedTypeNameHistroy>
